@@ -1,0 +1,11 @@
+# 音频文件 & 转写结果
+RawRecords/
+Results/
+
+# API 密钥
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
